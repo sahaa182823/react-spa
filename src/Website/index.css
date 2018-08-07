@@ -1,0 +1,31 @@
+body{
+    background-color : antiquewhite;
+    padding: 20px;
+
+
+}
+
+
+.header1{
+     background-color: burlywood;
+
+}
+
+ul{
+    display: inline;
+    list-style-type: none ;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+}
+
+.active{
+    background-color: azure;
+}
+
+.content1{
+    background-color: aquamarine;
+}
+
